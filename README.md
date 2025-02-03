@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mahesxrathod&label=Profile%20views&color=0e75b6&style=flat" alt="mahesxrathod" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mahesxrathod" alt="mahesxrathod" /></a> </p>
-
 - 💬 Ask me about **React**
 
 - 📫 How to reach me **rathodmaheshhh@gmail.com**
